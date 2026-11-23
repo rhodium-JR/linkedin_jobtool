@@ -1,10 +1,44 @@
-Example cover-letter style reference (fictional):
+COVER LETTER EXAMPLES
+
+1. Mechanical Design Engineer — Precision Instrumentation
 
 Dear Hiring Team,
 
-I am interested in this role because it aligns with my demonstrated experience and transferable skills. I value clear communication, careful analysis, and reliable collaboration.
+I am writing to apply for the Mechanical Design Engineer position. My work has consistently involved understanding the behaviour of physical systems, developing mathematical descriptions of their operation, and designing practical instruments to test and improve those descriptions.
+
+In developing a reflecting telescope, I translated an optical problem into an instrument design, addressing limitations in existing approaches through a different configuration. My research into mechanics has likewise required careful consideration of forces, motion, and system behaviour. I would bring this combination of analytical reasoning, experimental judgement, and practical design thinking to the development and refinement of precision equipment.
+
+I am comfortable working from first principles, investigating problems where the solution is not immediately apparent, and documenting the reasoning behind technical decisions. I would welcome the opportunity to contribute these skills to your engineering team.
 
 Yours faithfully,
-Thomas D. Sample
+Isaac Newton
 
-This is synthetic sample text, not a real person's letter.
+------------------------------------------------------------
+
+2. Research and Development Engineer — Optical Systems
+
+Dear Hiring Team,
+
+I wish to be considered for the Research and Development Engineer position. My research has focused on understanding physical phenomena through mathematical analysis and carefully designed experiments, with particular experience in light, colour, and optical systems.
+
+My investigations into the properties of light included experiments using prisms to examine the composition of white light. I also designed and constructed a reflecting telescope, applying theoretical understanding to a practical instrument-development problem. These projects required forming testable questions, controlling experimental conditions, interpreting results, and iterating between theory and observation.
+
+I would bring a rigorous approach to research, a willingness to challenge assumptions, and the ability to turn complex findings into clear technical conclusions. I am keen to apply these strengths to the investigation and development of new optical technologies.
+
+Yours faithfully,
+Isaac Newton
+
+------------------------------------------------------------
+
+3. Manufacturing and Process Engineer — Production Operations
+
+Dear Hiring Team,
+
+I am applying for the Manufacturing and Process Engineer position. In my work at the Royal Mint, I have been responsible for operational oversight in a production environment where accuracy, consistency, and the integrity of processes are essential.
+
+My responsibilities have included investigating counterfeit currency and examining practices affecting the reliability of coinage. This work has required detailed scrutiny, evidence-based conclusions, persistence in resolving difficult cases, and attention to the practical systems that protect product quality. I have also held responsibility for broader operational and institutional matters as Master of the Mint.
+
+I would offer a methodical approach to process investigation, strong analytical judgement, and an appreciation of the importance of reliable procedures and quality standards. I am interested in contributing to improvements that make manufacturing operations more robust, accurate, and effective.
+
+Yours faithfully,
+Isaac Newton
