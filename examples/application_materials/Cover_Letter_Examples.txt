@@ -1,0 +1,10 @@
+Example cover-letter style reference (fictional):
+
+Dear Hiring Team,
+
+I am interested in this role because it aligns with my demonstrated experience and transferable skills. I value clear communication, careful analysis, and reliable collaboration.
+
+Yours faithfully,
+Thomas D. Sample
+
+This is synthetic sample text, not a real person's letter.

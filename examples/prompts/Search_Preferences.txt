@@ -1,0 +1,12 @@
+Candidate search preferences template
+
+- Target role families:
+- Preferred industries or subject areas:
+- Preferred locations or work arrangements:
+- Preferred seniority:
+- Required languages:
+- Hard exclusions:
+- Roles to retain for further review even when uncertain:
+- Other constraints:
+
+Treat the listed preferences as configurable guidance, not assumptions about any candidate.

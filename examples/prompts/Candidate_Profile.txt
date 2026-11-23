@@ -1,0 +1,14 @@
+Candidate profile template
+
+Replace or complete this file with the candidate's factual education, work/research experience, skills, achievements, languages, and constraints.
+
+- Education:
+- Relevant experience:
+- Technical skills and methods:
+- Transferable skills with evidence:
+- Publications or achievements (if relevant):
+- Languages:
+- Target role types:
+- Constraints or roles to avoid:
+
+Use only documented facts. Distinguish direct experience, familiarity, and transferable knowledge.
