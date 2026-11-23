@@ -1,10 +1,17 @@
-# Private user configuration and identity
-private/
+# Personal configuration and credentials
 .env
 .env.*
 !.env.example
 
-# Personal files, records, generated output and browser session
+# Personal files and configuration
+searches/*
+!searches/README.md
+filters/*
+!filters/README.md
+prompts/*
+!prompts/README.md
+application_materials/*
+!application_materials/README.md
 Applications/
 Output/
 Debugging/
