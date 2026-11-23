@@ -42,7 +42,7 @@ def main():
         env.write_text(
             "OPENAI_API_KEY=replace_with_your_api_key\nAPPLICANT_SURNAME=Example\n",
             encoding="utf-8",
-",
+        )
         )
         print(f"Created: {env.relative_to(ROOT)}")
     print("Local setup complete. Edit the root-level folders before running.")
