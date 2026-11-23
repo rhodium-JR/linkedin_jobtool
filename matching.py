@@ -3,7 +3,7 @@ import time
 import json
 from datetime import datetime
 from openai import OpenAI
-from config import (ALL_JOBS_DB, JOBS_DB, MATCHING_MODEL, MATCHING_PROMPT, LOG_FILE, PRIVATE_DIR,
+from config import (ALL_JOBS_DB, JOBS_DB, MATCHING_MODEL, MATCHING_PROMPT, LOG_FILE, INPUT_DIR,
     CANDIDATE_PROFILE_FILE, EXAMPLE_CANDIDATE_PROFILE_FILE)
 from database import connect_database, initialise_databases
 from progress_tracker import ProgressTracker
@@ -39,7 +39,7 @@ def analyse_job(job, prompt):
     )
 
     # Load optional applicant context when supplied.
-    comments_file = PRIVATE_DIR / 'prompts' / 'Applicant_comments.txt'
+    comments_file = INPUT_DIR / 'Applicant_comments.txt'
     comments = comments_file.read_text(encoding='utf-8').strip() if comments_file.exists() else ''
 
     # Fill the optional applicant-context placeholder.
