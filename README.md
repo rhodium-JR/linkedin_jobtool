@@ -13,7 +13,7 @@ A local Python workflow for collecting job listings, filtering them, assessing s
 ## Setup
 
 1. Install Python 3.10+, Chrome and dependencies: `pip install -r requirements.txt`.
-2. Run `python setup_local.py` to create the root-level local folders and copy safe examples.
+2. Run `python setup_local.py` to create the root-level local folders and copy safe examples. If an older `private/` folder exists, this script safely copies its files into the new locations without overwriting anything.
 3. Edit your personal searches, filters, prompts, candidate profile, search preferences and application materials in the root-level folders.
 4. Add your API key to the root `.env` file.
 5. Run `python Find_jobs.py`.
