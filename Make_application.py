@@ -17,12 +17,12 @@ from config import (
     TAILOR_CV_PROMPT,
     COVER_LETTER_PROMPT,
     APPLICATIONS_DIR,
-    PRIVATE_DIR,
+    APPLICATION_MATERIALS_DIR,
     EXAMPLES_DIR,
 )
 
 # Store reusable CV and letter resources in this fixed folder.
-APPLICATION_MATERIALS_DIR = PRIVATE_DIR / "application_materials"
+
 EXAMPLE_MATERIALS_DIR = EXAMPLES_DIR / "application_materials"
 MASTER_CV_FILE = APPLICATION_MATERIALS_DIR / "Master_CV.tex"
 if not MASTER_CV_FILE.exists():
